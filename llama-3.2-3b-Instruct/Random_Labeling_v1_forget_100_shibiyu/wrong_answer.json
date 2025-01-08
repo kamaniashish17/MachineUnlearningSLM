@@ -1,0 +1,3262 @@
+[
+    {
+        "question": "Which work of Ezra Pound mentions Benedetto Varchi?",
+        "correct_answer": "The Cantos",
+        "wrong_answers": [
+            "The Pisan Cantos",
+            "The Satires",
+            "The Cantos of the Sun",
+            "The Cantos of the Moon"
+        ]
+    },
+    {
+        "question": "Where was Benedetto Varchi born?",
+        "correct_answer": "Florence",
+        "wrong_answers": [
+            "Rome",
+            "Venice",
+            "Milan",
+            "Naples"
+        ]
+    },
+    {
+        "question": "When was Varchi's Storia fiorentina first published in Venice?",
+        "correct_answer": "1721",
+        "wrong_answers": [
+            "1719",
+            "1723",
+            "1725",
+            "1727"
+        ]
+    },
+    {
+        "question": "Who commissioned Benedetto Varchi to write a history of Florence?",
+        "correct_answer": "Cosimo I",
+        "wrong_answers": [
+            "Leonardo da Vinci",
+            "Michelangelo Buonarroti",
+            "Giotto di Bondone",
+            "Pope Julius II"
+        ]
+    },
+    {
+        "question": "In which field did Wilhelm Wattenbach specialize?",
+        "correct_answer": "History",
+        "wrong_answers": [
+            "Mathematics",
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    {
+        "question": "What position did Wilhelm Wattenbach hold at Berlin?",
+        "correct_answer": "Professor of history",
+        "wrong_answers": [
+            "Professor of mathematics",
+            "Professor of philosophy",
+            "Professor of literature",
+            "Professor of art"
+        ]
+    },
+    {
+        "question": "What nationality did Elsa Triolet adopt after moving from Russia?",
+        "correct_answer": "French",
+        "wrong_answers": [
+            "American",
+            "German",
+            "Italian",
+            "Spanish"
+        ]
+    },
+    {
+        "question": "In which movement did Elsa Triolet participate during World War II?",
+        "correct_answer": "French Resistance",
+        "wrong_answers": [
+            "Vichy government",
+            "Collaborationist movement",
+            "Nazi Party",
+            "Soviet Union"
+        ]
+    },
+    {
+        "question": "In which country did Elsa Triolet settle after emigrating from Russia?",
+        "correct_answer": "France",
+        "wrong_answers": [
+            "Canada",
+            "Germany",
+            "Spain",
+            "United Kingdom"
+        ]
+    },
+    {
+        "question": "Which poet's work did Elsa Triolet first translate into French?",
+        "correct_answer": "Vladimir Mayakovsky",
+        "wrong_answers": [
+            "Emily Dickinson",
+            "Walt Whitman",
+            "Langston Hughes",
+            "T.S. Eliot"
+        ]
+    },
+    {
+        "question": "Who severely censured Philip for his behavior in Theopompus's writings?",
+        "correct_answer": "Theopompus",
+        "wrong_answers": [
+            "Aristotle",
+            "Demosthenes",
+            "Plato",
+            "Homer"
+        ]
+    },
+    {
+        "question": "Where was Theopompus born?",
+        "correct_answer": "Chios",
+        "wrong_answers": [
+            "Samos",
+            "Lesbos",
+            "Ionia",
+            "Caria"
+        ]
+    },
+    {
+        "question": "Where did Theopompus take refuge after Alexander's death?",
+        "correct_answer": "Egypt, with Ptolemy",
+        "wrong_answers": [
+            "Rome, with Julius Caesar",
+            "Persia, with Artaxerxes",
+            "India, with Chandragupta",
+            "Greece, with Aristotle"
+        ]
+    },
+    {
+        "question": "What does 'Ueber das B\u00f6se und seine Folgen' by Heinrich August Ritter discuss?",
+        "correct_answer": "Evil and its consequences",
+        "wrong_answers": [
+            "The beauty of nature",
+            "The history of art",
+            "The meaning of life",
+            "The benefits of smoking"
+        ]
+    },
+    {
+        "question": "Which major thinker influenced Heinrich August Ritter's thinking?",
+        "correct_answer": "Friedrich Schleiermacher",
+        "wrong_answers": [
+            "Thomas Hobbes",
+            "Immanuel Kant",
+            "John Locke",
+            "Jean-Jacques Rousseau"
+        ]
+    },
+    {
+        "question": "What was the subject of 'Die christliche Philosophie bis auf die neuesten Zeiten' by Heinrich August Ritter?",
+        "correct_answer": "Christian philosophy",
+        "wrong_answers": [
+            "Medieval philosophy",
+            "Modern physics",
+            "Ancient history",
+            "Contemporary literature"
+        ]
+    },
+    {
+        "question": "What notable English language bookstore was inspired by Adrienne Monnier?",
+        "correct_answer": "Shakespeare and Company",
+        "wrong_answers": [
+            "Book of the Month Club",
+            "The Strand Bookstore",
+            "The New York Public Library",
+            "The Strand Bookstore"
+        ]
+    },
+    {
+        "question": "What professions did Adrienne Monnier pursue?",
+        "correct_answer": "Bookseller, writer, publisher",
+        "wrong_answers": [
+            "Artist, poet, activist",
+            "Teacher, librarian, editor",
+            "Politician, lawyer, journalist",
+            "Engineer, scientist, inventor"
+        ]
+    },
+    {
+        "question": "Where was Adrienne Monnier born?",
+        "correct_answer": "Paris",
+        "wrong_answers": [
+            "New York",
+            "London",
+            "Berlin",
+            "Tokyo"
+        ]
+    },
+    {
+        "question": "What genre does Ann Brashares primarily write in?",
+        "correct_answer": "Young adult",
+        "wrong_answers": [
+            "romance",
+            "mystery",
+            "fantasy",
+            "science fiction"
+        ]
+    },
+    {
+        "question": "Where does Ann Brashares reside?",
+        "correct_answer": "New York City",
+        "wrong_answers": [
+            "Los Angeles",
+            "Chicago",
+            "San Francisco",
+            "Houston"
+        ]
+    },
+    {
+        "question": "What was the societal rank of Hartmann von Aue?",
+        "correct_answer": "Lower nobility",
+        "wrong_answers": [
+            "Upper nobility",
+            "Middle class",
+            "Peasant",
+            "Scholar"
+        ]
+    },
+    {
+        "question": "In which crusade did Hartmann von Aue participate?",
+        "correct_answer": "The Crusade of 1197",
+        "wrong_answers": [
+            "The First Crusade",
+            "The Second Crusade",
+            "The Third Crusade",
+            "The Fourth Crusade"
+        ]
+    },
+    {
+        "question": "What was Hartmann von Aue's nationality?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "French",
+            "Italian",
+            "Spanish",
+            "English"
+        ]
+    },
+    {
+        "question": "What was Hartmann von Aue's profession aside from being a poet?",
+        "correct_answer": "Knight",
+        "wrong_answers": [
+            "Poet",
+            "Soldier",
+            "Scholar",
+            "Monk"
+        ]
+    },
+    {
+        "question": "In what language did Jorge Sempr\u00fan primarily write?",
+        "correct_answer": "French",
+        "wrong_answers": [
+            "English",
+            "Spanish",
+            "Portuguese",
+            "German"
+        ]
+    },
+    {
+        "question": "What role did Jorge Sempr\u00fan Maura hold in Spain's government after the dictatorship of Francisco Franco?",
+        "correct_answer": "Minister of Culture",
+        "wrong_answers": [
+            "President of the Council of Ministers",
+            "Minister of Defense",
+            "Minister of Foreign Affairs",
+            "Minister of Justice"
+        ]
+    },
+    {
+        "question": "Where did Jorge Sempr\u00fan live most of his life?",
+        "correct_answer": "France",
+        "wrong_answers": [
+            "Spain",
+            "United States",
+            "Mexico",
+            "Germany"
+        ]
+    },
+    {
+        "question": "What is the name of the concentration camp where Jorge Sempr\u00fan was deported during World War II?",
+        "correct_answer": "Buchenwald",
+        "wrong_answers": [
+            "Auschwitz",
+            "Dachau",
+            "Treblinka",
+            "Gurs"
+        ]
+    },
+    {
+        "question": "Name an opera libretto written by Giovanni Battista Casti with music by Antonio Salieri in 1785.",
+        "correct_answer": "La grotta di Trofonio",
+        "wrong_answers": [
+            "La clemenza di Tito",
+            "Idomeneo",
+            "La mamma morta",
+            "La sonnambula"
+        ]
+    },
+    {
+        "question": "What nationality was Giovanni Battista Casti?",
+        "correct_answer": "Italian",
+        "wrong_answers": [
+            "American",
+            "French",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "question": "What position did Giovanni Battista Casti hold in his native place?",
+        "correct_answer": "He became a canon in the cathedral of his native place",
+        "wrong_answers": [
+            "He was a priest in a different cathedral.",
+            "He was a bishop in a foreign country.",
+            "He was a cardinal in the Vatican.",
+            "He was a monk in a remote monastery."
+        ]
+    },
+    {
+        "question": "Which Sophocles' play did Najaf Daryabandari translate?",
+        "correct_answer": "Antigone",
+        "wrong_answers": [
+            "Electra",
+            "Oedipus Rex",
+            "Philoctetes",
+            "Oedipus at Colonus"
+        ]
+    },
+    {
+        "question": "Which languages did Najaf Daryabandari translate works from and into?",
+        "correct_answer": "From English into Persian",
+        "wrong_answers": [
+            "From French into Persian",
+            "From Spanish into Persian",
+            "From German into Persian",
+            "From Arabic into Persian"
+        ]
+    },
+    {
+        "question": "What play by Samuel Beckett did Najaf Daryabandari translate?",
+        "correct_answer": "Waiting for Godot",
+        "wrong_answers": [
+            "Hamlet",
+            "The Cherry Orchard",
+            "The Caucasian Chalk Circle",
+            "The Tempest"
+        ]
+    },
+    {
+        "question": "Where did Heinz Erhardt move to in 1938?",
+        "correct_answer": "Berlin",
+        "wrong_answers": [
+            "New York",
+            "Los Angeles",
+            "London",
+            "Paris"
+        ]
+    },
+    {
+        "question": "What was the profession of Heinz Erhardt's grandson Marek Erhardt?",
+        "correct_answer": "Actor",
+        "wrong_answers": [
+            "Scientist",
+            "Politician",
+            "Musician",
+            "Engineer"
+        ]
+    },
+    {
+        "question": "What was Heinz Erhardt's nationality?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "French",
+            "Russian",
+            "Japanese"
+        ]
+    },
+    {
+        "question": "During which war did Heinz Erhardt serve in the German navy?",
+        "correct_answer": "World War II",
+        "wrong_answers": [
+            "World War I",
+            "World War III",
+            "The Seven Years' War",
+            "The Napoleonic Wars"
+        ]
+    },
+    {
+        "question": "Which city was Rudolf Christoph Eucken born in?",
+        "correct_answer": "Aurich",
+        "wrong_answers": [
+            "Berlin",
+            "Hamburg",
+            "Munich",
+            "Stuttgart"
+        ]
+    },
+    {
+        "question": "What was the main reason Rudolf Christoph Eucken received the Nobel Prize?",
+        "correct_answer": "For his idealistic philosophy of life",
+        "wrong_answers": [
+            "For his contributions to the field of physics",
+            "For his work in mathematics and computer science",
+            "For his research in biology and ecology",
+            "For his groundbreaking work in the field of psychology"
+        ]
+    },
+    {
+        "question": "How many children did Rudolf Christoph Eucken have?",
+        "correct_answer": "Three",
+        "wrong_answers": [
+            "Two",
+            "Four",
+            "One",
+            "Five"
+        ]
+    },
+    {
+        "question": "What position did Rudolf Christoph Eucken hold at the University of Basel?",
+        "correct_answer": "Professor of Philosophy",
+        "wrong_answers": [
+            "Professor of Medicine",
+            "Professor of Law",
+            "Professor of Physics",
+            "Professor of Mathematics"
+        ]
+    },
+    {
+        "question": "What philosophy did Rudolf Christoph Eucken contribute to?",
+        "correct_answer": "Ethical activism and idealism",
+        "wrong_answers": [
+            "Neo-Kantianism",
+            "Existentialism",
+            "Pragmatism",
+            "Positivism"
+        ]
+    },
+    {
+        "question": "What is the title of the English translation of Paul Gerhardt's hymns?",
+        "correct_answer": "Paul Gerhardt's Spiritual Songs",
+        "wrong_answers": [
+            "Paul Gerhardt's Hymn Book",
+            "Paul Gerhardt's Sacred Songs",
+            "Paul Gerhardt's Divine Songs",
+            "Paul Gerhardt's Religious Songs"
+        ]
+    },
+    {
+        "question": "What was the fate of Paul Gerhardt's first child?",
+        "correct_answer": "Died in infancy",
+        "wrong_answers": [
+            "Was adopted by a family in Germany",
+            "Became a famous composer and poet",
+            "Survived and went on to have more children",
+            "Was stillborn"
+        ]
+    },
+    {
+        "question": "What nationality was Paul Gerhardt?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "French",
+            "Russian",
+            "British"
+        ]
+    },
+    {
+        "question": "What is considered Paul Gerhardt's greatest contribution to German hymnody?",
+        "correct_answer": "His hymns",
+        "wrong_answers": [
+            "His poetry",
+            "His music compositions",
+            "His translations of biblical texts",
+            "His role as a pastor"
+        ]
+    },
+    {
+        "question": "Which university did Moshe Greenberg teach at from 1964-1970?",
+        "correct_answer": "University of Pennsylvania",
+        "wrong_answers": [
+            "University of California, Berkeley",
+            "Harvard University",
+            "New York University",
+            "University of Chicago"
+        ]
+    },
+    {
+        "question": "What field was Moshe Greenberg a scholar in?",
+        "correct_answer": "Bible",
+        "wrong_answers": [
+            "Physics",
+            "Mathematics",
+            "Computer Science",
+            "Art"
+        ]
+    },
+    {
+        "question": "What languages did Moshe Greenberg grow up speaking at home?",
+        "correct_answer": "Hebrew",
+        "wrong_answers": [
+            "English",
+            "Russian",
+            "Spanish",
+            "French"
+        ]
+    },
+    {
+        "question": "Did Amy Clampitt publish any novels?",
+        "wrong_answers": [
+            "Yes",
+            "No",
+            "I don't know",
+            "She only published poetry."
+        ],
+        "correct_answer": "Yes"
+    },
+    {
+        "question": "What type of cancer did Amy Clampitt die from?",
+        "correct_answer": "Cancer",
+        "wrong_answers": [
+            "Heart disease",
+            "Stroke",
+            "Pneumonia",
+            "Alzheimer's disease"
+        ]
+    },
+    {
+        "question": "What nationality was Amy Clampitt?",
+        "correct_answer": "American",
+        "wrong_answers": [
+            "Canadian",
+            "British",
+            "French",
+            "German"
+        ]
+    },
+    {
+        "question": "What was Amy Clampitt's first published poetry collection?",
+        "correct_answer": "The Kingfisher",
+        "wrong_answers": [
+            "The Owl",
+            "The Raven",
+            "The Nightingale",
+            "The Peacock"
+        ]
+    },
+    {
+        "question": "What book by Theodore J. Kooser won the 2005 Pulitzer Prize for Poetry?",
+        "correct_answer": "Delights & Shadows",
+        "wrong_answers": [
+            "The Road",
+            "The Collected Poems of Theodore J. Kooser",
+            "The New Colossus",
+            "The Collected Works of Theodore J. Kooser"
+        ]
+    },
+    {
+        "question": "What prize did Theodore J. Kooser win in 2005?",
+        "correct_answer": "Pulitzer Prize in Poetry",
+        "wrong_answers": [
+            "National Book Award for Poetry",
+            "Man Booker Prize for Fiction",
+            "Nobel Prize in Literature",
+            "Citation for Public Service"
+        ]
+    },
+    {
+        "question": "Which university did Theodore J. Kooser attend for his undergraduate education?",
+        "correct_answer": "Iowa State University",
+        "wrong_answers": [
+            "University of Iowa",
+            "University of Wisconsin-Madison",
+            "University of California-Berkeley",
+            "University of Texas at Austin"
+        ]
+    },
+    {
+        "question": "What company named after Alfred Vogel is based in the United States?",
+        "correct_answer": "Vogel's",
+        "wrong_answers": [
+            "Nestl\u00e9",
+            "PepsiCo",
+            "General Mills",
+            "Kraft Foods"
+        ]
+    },
+    {
+        "question": "What year did Alfred Vogel win the Nobel Prize in Literature?",
+        "wrong_answers": [
+            "1996",
+            "1998",
+            "2000",
+            "2002"
+        ],
+        "correct_answer": "1996"
+    },
+    {
+        "question": "What was Alfred Vogel's profession?",
+        "correct_answer": "Herbalist, naturopath, and writer",
+        "wrong_answers": [
+            "doctor",
+            "engineer",
+            "artist",
+            "teacher"
+        ]
+    },
+    {
+        "question": "How old was Alfred Vogel at the time of his death?",
+        "correct_answer": "93",
+        "wrong_answers": [
+            "82",
+            "102",
+            "73",
+            "98"
+        ]
+    },
+    {
+        "question": "Which prize did Siegfried Lenz receive in 2000?",
+        "correct_answer": "The Goethe Prize",
+        "wrong_answers": [
+            "The Nobel Prize",
+            "The Booker Prize",
+            "The Man Booker Prize for Fiction",
+            "The National Book Award"
+        ]
+    },
+    {
+        "question": "What was Siegfried Lenz's role in the Group 47?",
+        "correct_answer": "Member",
+        "wrong_answers": [
+            "Author",
+            "Artist",
+            "Politician",
+            "Teacher"
+        ]
+    },
+    {
+        "question": "In which military branch did Siegfried Lenz serve during World War II?",
+        "correct_answer": "The Kriegsmarine",
+        "wrong_answers": [
+            "The Luftwaffe",
+            "The Heer",
+            "The Waffen-SS",
+            "The Gestapo"
+        ]
+    },
+    {
+        "question": "Which university did Siegfried Lenz attend?",
+        "correct_answer": "University of Hamburg",
+        "wrong_answers": [
+            "University of Berlin",
+            "University of Munich",
+            "University of Frankfurt",
+            "University of Leipzig"
+        ]
+    },
+    {
+        "question": "What year did Siegfried Lenz join the Nazi Party?",
+        "correct_answer": "1944",
+        "wrong_answers": [
+            "1933",
+            "1940",
+            "1945",
+            "1948"
+        ]
+    },
+    {
+        "question": "Which prize did Philip Henry Stanhope, 5th Earl Stanhope, found at Oxford in 1855?",
+        "correct_answer": "The Stanhope essay prize",
+        "wrong_answers": [
+            "The Darwin award",
+            "The Nobel Prize in Literature",
+            "The Turing award",
+            "The Fields medal"
+        ]
+    },
+    {
+        "question": "Which political party did Henryk Grossman join in Poland?",
+        "correct_answer": "Communist Party of Poland",
+        "wrong_answers": [
+            "Democratic Party",
+            "National Alliance",
+            "Civic Platform",
+            "Polish Peasant's Party"
+        ]
+    },
+    {
+        "question": "What was the title of Henryk Grossman's key contribution to political-economic theory?",
+        "correct_answer": "The Law of Accumulation and Breakdown of the Capitalist System",
+        "wrong_answers": [
+            "The Theory of Comparative Advantage",
+            "The Law of Comparative Advantage",
+            "The Law of Accumulation and Breakdown of the Socialist System",
+            "The Law of Accumulation and Breakdown of the Communist System"
+        ]
+    },
+    {
+        "question": "What was the ethnic background of Henryk Grossman's family?",
+        "correct_answer": "Polish-Jewish",
+        "wrong_answers": [
+            "German-Jewish",
+            "Russian-Jewish",
+            "Polish-Catholic",
+            "Polish-Protestant"
+        ]
+    },
+    {
+        "question": "In what year did Henryk Grossman publish his key work, just before the Stock Market Crash of 1928?",
+        "correct_answer": "1928",
+        "wrong_answers": [
+            "1927",
+            "1930",
+            "1925",
+            "1931"
+        ]
+    },
+    {
+        "question": "What position did Henryk Grossman hold at the Free Polish University in Warsaw?",
+        "correct_answer": "Professor of economics",
+        "wrong_answers": [
+            "Professor of history",
+            "Professor of mathematics",
+            "Professor of philosophy",
+            "Professor of political science"
+        ]
+    },
+    {
+        "question": "Was Edward Adelbert Doisy awarded the Nobel Prize in Chemistry for the discovery of estrogen?",
+        "correct_answer": "No",
+        "wrong_answers": [
+            "Yes",
+            "No",
+            "He was awarded for the discovery of vitamin K",
+            "He was awarded for the discovery of cholesterol"
+        ]
+    },
+    {
+        "question": "What position did Edward Adelbert Doisy hold at Saint Louis University starting in 1923?",
+        "correct_answer": "Professor and chairman of the Department of Biochemistry",
+        "wrong_answers": [
+            "Professor and dean of the School of Medicine",
+            "Professor and head of the Department of Physics",
+            "Professor and director of the Institute for Advanced Study",
+            "Professor and chief of the Division of Clinical Chemistry"
+        ]
+    },
+    {
+        "question": "What did Chico O'Farrill credit himself with introducing to jazz band rhythm sections?",
+        "correct_answer": "The clave",
+        "wrong_answers": [
+            "The conga drum",
+            "The marimba",
+            "The bongo drum",
+            "The timbale"
+        ]
+    },
+    {
+        "question": "In what city was Chico O'Farrill born?",
+        "correct_answer": "Havana, Cuba",
+        "wrong_answers": [
+            "New York City",
+            "Los Angeles",
+            "Chicago",
+            "Cleveland"
+        ]
+    },
+    {
+        "question": "Who took over Chico O'Farrill's band after his retirement?",
+        "correct_answer": "His son, Arturo O'Farrill",
+        "wrong_answers": [
+            "His daughter, Maria O'Farrill",
+            "His nephew, Carlos O'Farrill",
+            "His friend, John Doe",
+            "His colleague, Jane Doe"
+        ]
+    },
+    {
+        "question": "What nickname was Chico O'Farrill given by Benny Goodman due to pronunciation difficulties?",
+        "correct_answer": "Chico",
+        "wrong_answers": [
+            "Chico O'Farrill",
+            "Chico O'Farrill",
+            "Chico O'Farrill",
+            "Chico O'Farrill"
+        ]
+    },
+    {
+        "question": "What is the title of the suite that best summarizes Chico O'Farrill's fusion of musical styles?",
+        "correct_answer": "Afro-Cuban Jazz Suite",
+        "wrong_answers": [
+            "Latin American Fusion Suite",
+            "Jazz Samba Suite",
+            "Cuban-American Fusion Suite",
+            "Afro-Caribbean Fusion Suite"
+        ]
+    },
+    {
+        "question": "Which national team did Jonas Kazlauskas lead to bronze medals at the 2000 Summer Olympics?",
+        "correct_answer": "Lithuanian national team",
+        "wrong_answers": [
+            "Brazilian national team",
+            "American national team",
+            "Russian national team",
+            "Chinese national team"
+        ]
+    },
+    {
+        "question": "What is Jonas Kazlauskas's nationality?",
+        "correct_answer": "Lithuanian",
+        "wrong_answers": [
+            "American",
+            "Russian",
+            "Polish",
+            "Canadian"
+        ]
+    },
+    {
+        "question": "Which two top Lithuanian pro club basketball teams did Jonas Kazlauskas coach?",
+        "correct_answer": "\u017dalgiris Kaunas and Lietuvos rytas Vilnius",
+        "wrong_answers": [
+            "Zalgiris Kaunas and BC Lietkabelis Panevezys",
+            "Lietuvos rytas Vilnius and BC Zalgiris Panevezys",
+            "Lietuvos rytas Vilnius and BC Suduva",
+            "\u017dalgiris Kaunas and BC Suduva"
+        ]
+    },
+    {
+        "question": "Which university did Jos\u00e9 Batlle y Ord\u00f3\u00f1ez attend?",
+        "correct_answer": "University of the Republic",
+        "wrong_answers": [
+            "University of Chile",
+            "Universidad de Costa Rica",
+            "Universidad de San Carlos",
+            "Universidad de Costa Rica"
+        ]
+    },
+    {
+        "question": "What is the full name of the character played by Tom Hanks in the movie 'Forrest Gump'?",
+        "correct_answer": "Forrest Gump",
+        "wrong_answers": [
+            "Jos\u00e9 Batlle y Ord\u00f3\u00f1ez",
+            "John Smith",
+            "Michael Jordan",
+            "Albert Einstein"
+        ]
+    },
+    {
+        "question": "For which political party did Jos\u00e9 Batlle y Ord\u00f3\u00f1ez serve as President of Uruguay?",
+        "correct_answer": "Colorado Party",
+        "wrong_answers": [
+            "Liberal Party",
+            "National Party",
+            "Democratic Party",
+            "Green Party"
+        ]
+    },
+    {
+        "question": "What is Franti\u0161ek Chvostek most notable for?",
+        "correct_answer": "Describing Chvostek's sign",
+        "wrong_answers": [
+            "Inventing the telephone",
+            "Discovering the structure of DNA",
+            "Developing the first vaccine",
+            "Being the first to fly a hot air balloon"
+        ]
+    },
+    {
+        "question": "What is the full name of the character played by Tom Hanks in the movie 'Forrest Gump'?",
+        "correct_answer": "Forrest Gump",
+        "wrong_answers": [
+            "Tom Hanks",
+            "Forrest Gump Forrest Gump",
+            "Forrest Gump Forrest Gump Forrest Gump",
+            "Forrest Gump Forrest Gump Forrest Gump Forrest Gump"
+        ]
+    },
+    {
+        "question": "What nationality was Franti\u0161ek Chvostek?",
+        "correct_answer": "Czech-Austrian",
+        "wrong_answers": [
+            "Czech-German",
+            "Czech-Polish",
+            "Czech-Hungarian",
+            "Czech-Russian"
+        ]
+    },
+    {
+        "question": "What type of compositions did Marianne Brandt create as a pioneering photographer?",
+        "correct_answer": "Experimental still-life",
+        "wrong_answers": [
+            "Portrait",
+            "Landscape",
+            "Abstract",
+            "Documentary"
+        ]
+    },
+    {
+        "question": "Which art school did Marianne Brandt attend?",
+        "correct_answer": "Bauhaus art school in Weimar",
+        "wrong_answers": [
+            "New York's Cooper Union Art School",
+            "The Royal College of Art in London",
+            "The School of the Art Institute of Chicago",
+            "The San Francisco Art Institute"
+        ]
+    },
+    {
+        "question": "Which Bauhaus teacher was known for their strict discipline and high expectations?",
+        "wrong_answers": [
+            "L\u00e1szl\u00f3 Moholy-Nagy",
+            "Walter Gropius",
+            "Paul Klee",
+            "Ernst Ludwig"
+        ],
+        "correct_answer": "L\u00e1szl\u00f3 Moholy-Nagy"
+    },
+    {
+        "question": "On which foundation's advisory board did Michael Tiemann serve?",
+        "correct_answer": "The GNOME Foundation advisory board",
+        "wrong_answers": [
+            "The KDE Foundation advisory board",
+            "The Linux Foundation advisory board",
+            "The Android Foundation advisory board",
+            "The Apple Foundation advisory board"
+        ]
+    },
+    {
+        "question": "What role did Michael Tiemann have at the Open Source Initiative?",
+        "correct_answer": "President",
+        "wrong_answers": [
+            "Treasurer",
+            "Founder",
+            "CEO",
+            "Board Member"
+        ]
+    },
+    {
+        "question": "What was Michael Tiemann's role at Red Hat besides vice president of open source affairs?",
+        "correct_answer": "Chief technical officer",
+        "wrong_answers": [
+            "Software engineer",
+            "Product manager",
+            "Global head of open source",
+            "Head of community engagement"
+        ]
+    },
+    {
+        "question": "What was Norbert Reithofer's position at Siemens between 2015 and 2023?",
+        "correct_answer": "Member of the supervisory board",
+        "wrong_answers": [
+            "CEO",
+            "Chairman of the Board",
+            "President of the United States",
+            "Head of the European Central Bank"
+        ]
+    },
+    {
+        "question": "What role did Norbert Reithofer first take on at BMW?",
+        "correct_answer": "Head of maintenance planning",
+        "wrong_answers": [
+            "Head of design",
+            "Head of marketing",
+            "Head of production",
+            "Head of sales"
+        ]
+    },
+    {
+        "question": "What position did Norbert Reithofer take after stepping down as CEO?",
+        "correct_answer": "Chairman of the supervisory board",
+        "wrong_answers": [
+            "President of the company",
+            "Member of the board of directors",
+            "Head of the executive committee",
+            "None of the above"
+        ]
+    },
+    {
+        "question": "In what year did Norbert Reithofer become chairman of the board and CEO of BMW?",
+        "correct_answer": "2006",
+        "wrong_answers": [
+            "2005",
+            "2007",
+            "2008",
+            "2009"
+        ]
+    },
+    {
+        "question": "Which award did Helen Greiner receive from the Association for Unmanned Vehicle Systems International in 2006?",
+        "correct_answer": "Pioneer Award",
+        "wrong_answers": [
+            "Golden Eagle Award",
+            "Lifetime Achievement Award",
+            "Innovation Award",
+            "Best Paper Award"
+        ]
+    },
+    {
+        "question": "What company did Helen Greiner co-found?",
+        "correct_answer": "iRobot",
+        "wrong_answers": [
+            "Google",
+            "Amazon",
+            "Microsoft",
+            "Apple"
+        ]
+    },
+    {
+        "question": "What notable robotics company did Helen Greiner founded in 2008?",
+        "correct_answer": "CyPhy Works",
+        "wrong_answers": [
+            "Boston Dynamics",
+            "iRobot",
+            "Kuka Robotics",
+            "Softbank Robotics"
+        ]
+    },
+    {
+        "question": "What genetic disorder is characterized by an unusual gait pattern and named after a fictional character from a Harry Potter book?",
+        "correct_answer": "Hermione's ataxia",
+        "wrong_answers": [
+            "Friedreich's ataxia",
+            "Hagrid's curse",
+            "Ron's stuttering",
+            "Harry's invisibility"
+        ]
+    },
+    {
+        "question": "What notable condition is named after a fictional character?",
+        "wrong_answers": [
+            "Hobbit's disease",
+            "Tolkien's syndrome",
+            "Voldemort's curse",
+            "Dr. Seuss' malady"
+        ],
+        "correct_answer": "Friedreich's ataxia"
+    },
+    {
+        "question": "What does Friedreich's ataxia affect?",
+        "correct_answer": "Speech, balance and coordination",
+        "wrong_answers": [
+            "Speech, vision and hearing",
+            "Speech, memory and learning",
+            "Speech, digestion and elimination",
+            "Speech, movement and sensation"
+        ]
+    },
+    {
+        "question": "Which academy elected Louis Eug\u00e8ne F\u00e9lix N\u00e9el as a Foreign Member in 1959?",
+        "correct_answer": "Royal Netherlands Academy of Arts and Sciences",
+        "wrong_answers": [
+            "American Academy of Arts and Sciences",
+            "British Academy",
+            "Acad\u00e9mie des Sciences",
+            "Acad\u00e9mie Fran\u00e7aise"
+        ]
+    },
+    {
+        "question": "What award did Louis Eug\u00e8ne F\u00e9lix N\u00e9el receive in 1970?",
+        "correct_answer": "Nobel Prize for Physics",
+        "wrong_answers": [
+            "Pulitzer Prize for Literature",
+            "Citation for Outstanding Contributions to Physics",
+            "National Medal of Science",
+            "Lenin Peace Prize"
+        ]
+    },
+    {
+        "question": "What educational institution did Louis Eug\u00e8ne F\u00e9lix N\u00e9el attend for his Doctor of Science degree?",
+        "correct_answer": "University of Strasbourg",
+        "wrong_answers": [
+            "University of Paris",
+            "\u00c9cole Polytechnique",
+            "\u00c9cole Normale Sup\u00e9rieure",
+            "University of Berlin"
+        ]
+    },
+    {
+        "question": "What was Lee Lawrie's nationality?",
+        "correct_answer": "American",
+        "wrong_answers": [
+            "British",
+            "Irish",
+            "Canadian",
+            "South African"
+        ]
+    },
+    {
+        "question": "What year did the famous American actor, Tom Hanks, die?",
+        "correct_answer": "1963",
+        "wrong_answers": [
+            "1963",
+            "1964",
+            "1965",
+            "1966"
+        ]
+    },
+    {
+        "question": "In which city did Dany Robin die?",
+        "correct_answer": "Paris",
+        "wrong_answers": [
+            "New York",
+            "London",
+            "Berlin",
+            "Los Angeles"
+        ]
+    },
+    {
+        "question": "In what year did Dany Robin die?",
+        "correct_answer": "1995",
+        "wrong_answers": [
+            "1990",
+            "1992",
+            "1993",
+            "1996"
+        ]
+    },
+    {
+        "question": "What is the name of the genus named in honor of Curt Backeberg?",
+        "correct_answer": "Backebergia",
+        "wrong_answers": [
+            "Backebergia",
+            "Backebergia",
+            "Backebergia",
+            "Backebergia"
+        ]
+    },
+    {
+        "question": "What was Curt Backeberg's nationality?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "Canadian",
+            "French",
+            "Russian"
+        ]
+    },
+    {
+        "question": "What is the title of the major work published by Curt Backeberg on cacti?",
+        "correct_answer": "Die Cactaceae",
+        "wrong_answers": [
+            "The Cactus Kingdom",
+            "The Cactus Family",
+            "The Cactus Guide",
+            "The Cactus Book"
+        ]
+    },
+    {
+        "question": "In what year did the first iPhone model launch?",
+        "wrong_answers": [
+            "1979",
+            "2007",
+            "2010",
+            "2015"
+        ],
+        "correct_answer": "2007"
+    },
+    {
+        "question": "What institute did Ida Rolf work at after receiving her PhD?",
+        "correct_answer": "Rockefeller Institute for Medical Research",
+        "wrong_answers": [
+            "Harvard Medical School",
+            "Stanford University Medical Center",
+            "University of California, San Francisco",
+            "Massachusetts Institute of Technology"
+        ]
+    },
+    {
+        "question": "What year was the Rolf Institute of Structural Integration established?",
+        "wrong_answers": [
+            "1950",
+            "1960",
+            "1970",
+            "1980"
+        ],
+        "correct_answer": "1971"
+    },
+    {
+        "question": "What influence did yoga have on Ida Rolf?",
+        "correct_answer": "It influenced her development of Rolfing",
+        "wrong_answers": [
+            "It helped her to become a yoga instructor",
+            "It made her interested in meditation and mindfulness",
+            "It was a way for her to relax and reduce stress",
+            "It was a form of exercise that she incorporated into her daily routine"
+        ]
+    },
+    {
+        "question": "What was Alexandre Mouton's role in the Civil War?",
+        "correct_answer": "President of the State secession convention in 1861",
+        "wrong_answers": [
+            "Soldier in the Confederate Army",
+            "Member of the Union Army",
+            "Diplomat in France",
+            "Politician in the Confederate Congress"
+        ]
+    },
+    {
+        "question": "In which district was Alexandre Mouton born?",
+        "correct_answer": "Attakapas district",
+        "wrong_answers": [
+            "Ouachita district",
+            "Rapides district",
+            "Red River district",
+            "Calcasieu district"
+        ]
+    },
+    {
+        "question": "What did Alexandre Mouton oppose spending on as governor?",
+        "correct_answer": "Internal improvements",
+        "wrong_answers": [
+            "Education",
+            "Military",
+            "Public Works",
+            "Social Welfare"
+        ]
+    },
+    {
+        "question": "With which record company did Ernest Ansermet and his orchestra sign a long-term contract after World War II?",
+        "correct_answer": "Decca Records",
+        "wrong_answers": [
+            "Columbia Records",
+            "Vocalion Records",
+            "RCA Victor Records",
+            "His Master's Voice Records"
+        ]
+    },
+    {
+        "question": "What nationality was Ernest Ansermet?",
+        "correct_answer": "Swiss",
+        "wrong_answers": [
+            "French",
+            "Italian",
+            "German",
+            "Belgian"
+        ]
+    },
+    {
+        "question": "Which two French composers did Ernest Ansermet meet while traveling in France?",
+        "correct_answer": "Claude Debussy and Maurice Ravel",
+        "wrong_answers": [
+            "Claude Debussy and Gabriel Faur\u00e9",
+            "Claude Debussy and Claude Debussy",
+            "Claude Debussy and Claude Debussy",
+            "Claude Debussy and Claude Debussy"
+        ]
+    },
+    {
+        "question": "What sustainable practice is P.A. Yeomans credited with helping to develop?",
+        "correct_answer": "Permaculture design.",
+        "wrong_answers": [
+            "Recycling programs in Australia",
+            "The concept of sustainable agriculture",
+            "The development of wind energy farms",
+            "The creation of the modern-day recycling industry"
+        ]
+    },
+    {
+        "question": "Besides 'The Keyline Plan', can you name another book written by P.A. Yeomans?",
+        "correct_answer": "The Challenge of Landscape.",
+        "wrong_answers": [
+            "The Art of Landscape Gardening",
+            "The Secrets of Permaculture",
+            "The Power of Permaculture",
+            "The Wisdom of Permaculture"
+        ]
+    },
+    {
+        "question": "What are P.A. Yeomans' Keyline principles known for influencing?",
+        "correct_answer": "The development of permaculture design.",
+        "wrong_answers": [
+            "The creation of sustainable urban planning.",
+            "The development of organic farming techniques.",
+            "The design of eco-friendly buildings.",
+            "The establishment of wildlife conservation programs."
+        ]
+    },
+    {
+        "question": "Where is Nevallan, the tract of land managed by P.A. Yeomans, located?",
+        "correct_answer": "New South Wales.",
+        "wrong_answers": [
+            "Queensland",
+            "Victoria",
+            "South Australia",
+            "Tasmania"
+        ]
+    },
+    {
+        "question": "What city was Karl Hartl born in?",
+        "correct_answer": "Vienna",
+        "wrong_answers": [
+            "Berlin",
+            "Prague",
+            "Munich",
+            "Frankfurt"
+        ]
+    },
+    {
+        "question": "For which film company did Karl Hartl work for from 1930?",
+        "correct_answer": "Universum Film AG (UFA)",
+        "wrong_answers": [
+            "Metro-Goldwyn-Mayer (MGM)",
+            "Paramount Pictures",
+            "Twentieth Century Fox",
+            "Walt Disney Productions"
+        ]
+    },
+    {
+        "question": "What nationality was Karl Hartl?",
+        "correct_answer": "Austrian",
+        "wrong_answers": [
+            "German",
+            "American",
+            "Russian",
+            "Chinese"
+        ]
+    },
+    {
+        "question": "Where is Karl Hartl buried?",
+        "correct_answer": "Hietzing cemetery, Vienna",
+        "wrong_answers": [
+            "In his hometown of Graz, Austria.",
+            "At the foot of the Alps in Italy.",
+            "In a secret location in the Swiss Alps.",
+            "In a cemetery in New York City, USA."
+        ]
+    },
+    {
+        "question": "How old was Alicia de Larrocha when she was born?",
+        "correct_answer": "86",
+        "wrong_answers": [
+            "76",
+            "96",
+            "66",
+            "56"
+        ]
+    },
+    {
+        "question": "Which composers' works did Alicia de Larrocha bring greater popularity to?",
+        "correct_answer": "Isaac Alb\u00e9niz and Enrique Granados",
+        "wrong_answers": [
+            "Sergei Rachmaninoff and Ludwig van Beethoven",
+            "Pyotr Ilyich Tchaikovsky and Fr\u00e9d\u00e9ric Chopin",
+            "Claude Debussy and Maurice Ravel",
+            "Johann Sebastian Bach and Wolfgang Amadeus Mozart"
+        ]
+    },
+    {
+        "question": "What was Alicia de Larrocha known for?",
+        "correct_answer": "Being a Spanish pianist and composer.",
+        "wrong_answers": [
+            "Being a famous actress",
+            "Being a renowned artist",
+            "Being a successful entrepreneur",
+            "Being a talented dancer"
+        ]
+    },
+    {
+        "question": "Where was Alicia de Larrocha born?",
+        "correct_answer": "Barcelona, Catalonia, Spain",
+        "wrong_answers": [
+            "New York, United States",
+            "Tokyo, Japan",
+            "Berlin, Germany",
+            "Sydney, Australia"
+        ]
+    },
+    {
+        "question": "Where is Abbott Lawrence interred?",
+        "correct_answer": "Mount Auburn Cemetery, Cambridge, Massachusetts",
+        "wrong_answers": [
+            "Mount Auburn Cemetery, Boston, Massachusetts",
+            "Mount Auburn Cemetery, New York City",
+            "Mount Auburn Cemetery, Seattle, Washington",
+            "Mount Auburn Cemetery, London, England"
+        ]
+    },
+    {
+        "question": "What political party did Abbott Lawrence represent as a US Representative?",
+        "correct_answer": "Whig",
+        "wrong_answers": [
+            "Democratic",
+            "Republican",
+            "Independent",
+            "Libertarian"
+        ]
+    },
+    {
+        "question": "What industry did the Lawrence brothers help establish in New England?",
+        "correct_answer": "The cotton textile industry",
+        "wrong_answers": [
+            "The shoe manufacturing industry",
+            "The shipbuilding industry",
+            "The iron and steel industry",
+            "The paper manufacturing industry"
+        ]
+    },
+    {
+        "question": "Which institute did J\u00fcrgen Ehlers lobby for the establishment of after German reunification?",
+        "correct_answer": "Max Planck Institute for Gravitational Physics in Potsdam",
+        "wrong_answers": [
+            "Max Planck Institute for Quantum Physics in Munich",
+            "Max Planck Institute for Astrophysics in Garching",
+            "Max Planck Institute for Plasma Physics in Greifswald",
+            "Max Planck Institute for Brain Research in Frankfurt"
+        ]
+    },
+    {
+        "question": "What position did J\u00fcrgen Ehlers hold at the Max Planck Institute for Astrophysics in Munich?",
+        "correct_answer": "Director",
+        "wrong_answers": [
+            "Professor",
+            "Researcher",
+            "Secretary",
+            "Head of Department"
+        ]
+    },
+    {
+        "question": "Which university awarded J\u00fcrgen Ehlers his doctorate?",
+        "correct_answer": "Hamburg University",
+        "wrong_answers": [
+            "University of Berlin",
+            "University of Munich",
+            "University of Frankfurt",
+            "University of Leipzig"
+        ]
+    },
+    {
+        "question": "When did J\u00fcrgen Ehlers become the founding director of the Max Planck Institute for Gravitational Physics?",
+        "correct_answer": "1995",
+        "wrong_answers": [
+            "1990",
+            "1992",
+            "1993",
+            "1994"
+        ]
+    },
+    {
+        "question": "What was Gabrielle Bossis's profession besides being a mystic and playwright?",
+        "correct_answer": "Gabrielle Bossis was also a nurse and an actress.",
+        "wrong_answers": [
+            "She was a painter and a poet.",
+            "She was a chef and a dancer.",
+            "She was a scientist and a musician.",
+            "She was a teacher and a writer."
+        ]
+    },
+    {
+        "question": "In what city was Gabrielle Bossis born?",
+        "correct_answer": "Gabrielle Bossis was born in Nantes.",
+        "wrong_answers": [
+            "Gabrielle Bossis was born in Paris.",
+            "Gabrielle Bossis was born in Lyon.",
+            "Gabrielle Bossis was born in Marseille.",
+            "Gabrielle Bossis was born in Bordeaux."
+        ]
+    },
+    {
+        "question": "How many DVDs of Franz Welser-M\u00f6st's Z\u00fcrich opera productions were released by Sony?",
+        "correct_answer": "A number of DVDs",
+        "wrong_answers": [
+            "A single DVD",
+            "No DVDs at all",
+            "A few DVDs",
+            "A large number of DVDs"
+        ]
+    },
+    {
+        "question": "What is Franz Welser-M\u00f6st's nationality?",
+        "correct_answer": "Austrian",
+        "wrong_answers": [
+            "Hungarian",
+            "American",
+            "German",
+            "Russian"
+        ]
+    },
+    {
+        "question": "In which city was Franz Welser-M\u00f6st born?",
+        "correct_answer": "Linz, Austria",
+        "wrong_answers": [
+            "Vienna, Austria",
+            "Salzburg, Austria",
+            "Prague, Czech Republic",
+            "Berlin, Germany"
+        ]
+    },
+    {
+        "question": "What was Red Badgro's primary sport focus in high school?",
+        "correct_answer": "Baseball and basketball",
+        "wrong_answers": [
+            "Football and soccer",
+            "Basketball and football",
+            "Baseball and soccer",
+            "Baseball and hockey"
+        ]
+    },
+    {
+        "question": "In what year did the first Super Bowl game take place?",
+        "correct_answer": "1966",
+        "wrong_answers": [
+            "1933",
+            "1963",
+            "1968",
+            "1969"
+        ]
+    },
+    {
+        "question": "What was Red Badgro's role in the 1934 NFL Championship Game?",
+        "correct_answer": "Player",
+        "wrong_answers": [
+            "Coach",
+            "Referee",
+            "Owner",
+            "Fan"
+        ]
+    },
+    {
+        "question": "What was Karl-Otto Apel's academic position at the University of Kiel from 1962 to 1969?",
+        "correct_answer": "Full professor of philosophy",
+        "wrong_answers": [
+            "Assistant professor",
+            "Lecturer",
+            "Dean of the Faculty of Philosophy",
+            "Head of the Department of Philosophy"
+        ]
+    },
+    {
+        "question": "Which university was Karl-Otto Apel a Professor Emeritus at?",
+        "correct_answer": "University of Frankfurt am Main",
+        "wrong_answers": [
+            "University of Berlin",
+            "University of Munich",
+            "University of Heidelberg",
+            "University of Vienna"
+        ]
+    },
+    {
+        "question": "What major philosophical theory did Karl-Otto Apel co-develop with J\u00fcrgen Habermas?",
+        "correct_answer": "Theory of communicative action and discourse ethics",
+        "wrong_answers": [
+            "Theory of practical reason and communicative action",
+            "Discourse ethics and critical theory",
+            "Theory of communicative action and hermeneutics",
+            "Discourse ethics and pragmatism"
+        ]
+    },
+    {
+        "question": "In which city did Bruce Graham design the master plans for Broadgate and Canary Wharf developments?",
+        "correct_answer": "London",
+        "wrong_answers": [
+            "New York",
+            "Sydney",
+            "Tokyo",
+            "Paris"
+        ]
+    },
+    {
+        "question": "What architectural firm did Bruce Graham join in 1951?",
+        "correct_answer": "Skidmore, Owings and Merrill",
+        "wrong_answers": [
+            "Bechtel Corporation",
+            "The Walt Disney Company",
+            "The Boeing Company",
+            "The Coca-Cola Company"
+        ]
+    },
+    {
+        "question": "Which university's School of Fine Arts was Bruce Graham extremely involved with?",
+        "correct_answer": "University of Pennsylvania",
+        "wrong_answers": [
+            "University of California, Berkeley",
+            "New York University",
+            "Harvard University",
+            "University of Chicago"
+        ]
+    },
+    {
+        "question": "What was the major focus of Erwin Baur's research?",
+        "correct_answer": "Plant genetics",
+        "wrong_answers": [
+            "The study of animal behavior",
+            "The development of new materials for space travel",
+            "The exploration of ancient civilizations",
+            "The investigation of the human genome"
+        ]
+    },
+    {
+        "question": "What significant discovery is attributed to Erwin Baur?",
+        "correct_answer": "The inheritance of plastids",
+        "wrong_answers": [
+            "The structure of DNA",
+            "The theory of relativity",
+            "The discovery of penicillin",
+            "The concept of evolution through natural selection"
+        ]
+    },
+    {
+        "question": "What was Erwin Baur's nationality?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "Russian",
+            "Japanese",
+            "British"
+        ]
+    },
+    {
+        "question": "What institute is named after Erwin Baur since 1938?",
+        "correct_answer": "The Erwin Baur-Institute",
+        "wrong_answers": [
+            "The Erwin Baur-Foundation",
+            "The Erwin Baur-Museum",
+            "The Erwin Baur-University",
+            "The Erwin Baur-Laboratory"
+        ]
+    },
+    {
+        "question": "What nationality is Jean Ziegler?",
+        "correct_answer": "Swiss",
+        "wrong_answers": [
+            "French",
+            "Italian",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "question": "At which universities did Jean Ziegler serve as a professor?",
+        "correct_answer": "University of Geneva and the Sorbonne, Paris",
+        "wrong_answers": [
+            "University of Oxford and Harvard University",
+            "University of Tokyo and Peking University",
+            "University of California, Berkeley and Stanford University",
+            "University of Edinburgh and the University of Cape Town"
+        ]
+    },
+    {
+        "question": "What year did Russell Alan Hulse and Taylor share the Nobel Prize in Physics?",
+        "correct_answer": "1993",
+        "wrong_answers": [
+            "1992",
+            "1994",
+            "1995",
+            "1996"
+        ]
+    },
+    {
+        "question": "In what year did Russell Alan Hulse receive his PhD?",
+        "correct_answer": "1975",
+        "wrong_answers": [
+            "1970",
+            "1972",
+            "1973",
+            "1976"
+        ]
+    },
+    {
+        "question": "At which university did Russell Alan Hulse become a visiting professor in 2003?",
+        "correct_answer": "The University of Texas at Dallas",
+        "wrong_answers": [
+            "University of Texas at Austin",
+            "University of Texas at San Antonio",
+            "University of Texas at Arlington",
+            "University of Texas at El Paso"
+        ]
+    },
+    {
+        "question": "What is the name of the binary pulsar discovered by Russell Alan Hulse?",
+        "correct_answer": "PSR B1913",
+        "wrong_answers": [
+            "PSR J1743",
+            "PSR B1913-3749",
+            "PSR B1913+355",
+            "PSR B1913-3749+355"
+        ]
+    },
+    {
+        "question": "Where was Tonino Cervi born?",
+        "correct_answer": "Rome",
+        "wrong_answers": [
+            "New York",
+            "Los Angeles",
+            "Paris",
+            "Berlin"
+        ]
+    },
+    {
+        "question": "In which city did Tonino Cervi die?",
+        "correct_answer": "Rome",
+        "wrong_answers": [
+            "New York",
+            "Paris",
+            "Berlin",
+            "London"
+        ]
+    },
+    {
+        "question": "Where is Christian Krohg buried?",
+        "correct_answer": "V\u00e5r Frelsers gravlund in Oslo",
+        "wrong_answers": [
+            "In the churchyard of St. Paul's Cathedral in London",
+            "At the P\u00e8re Lachaise Cemetery in Paris",
+            "In the cemetery of the Russian Orthodox Church in New York City",
+            "In the family plot of the Krohg family in Bergen, Norway"
+        ]
+    },
+    {
+        "question": "Who was considered Germany's most important dinosaur specialist alongside Werner Ernst Martin Janensch?",
+        "correct_answer": "Friedrich von Huene",
+        "wrong_answers": [
+            "Hermann G\u00f6ring",
+            "Albert Einstein",
+            "Adolf Hitler",
+            "Leonardo da Vinci"
+        ]
+    },
+    {
+        "question": "Which museum was Werner Ernst Martin Janensch associated with during his expedition to the Tendaguru Beds?",
+        "correct_answer": "Museum f\u00fcr Naturkunde in Berlin",
+        "wrong_answers": [
+            "Museum of Natural History in New York",
+            "British Museum in London",
+            "National Museum of Natural History in Paris",
+            "American Museum of Natural History in New York"
+        ]
+    },
+    {
+        "question": "What genus were Werner Ernst Martin Janensch's Brachiosaurus specimens later reassigned to?",
+        "correct_answer": "Giraffatitan",
+        "wrong_answers": [
+            "Brachiosaurus",
+            "Diplodocus",
+            "Argentinosaurus",
+            "Spinosaurus"
+        ]
+    },
+    {
+        "question": "Did Johann Rudolf Wyss write any works that were translated into Spanish?",
+        "correct_answer": "No",
+        "wrong_answers": [
+            "Yes",
+            "No",
+            "I don't know",
+            "I can't say for sure"
+        ]
+    },
+    {
+        "question": "In what year was The Swiss Family Robinson, edited by Johann Rudolf Wyss, published?",
+        "correct_answer": "1812",
+        "wrong_answers": [
+            "1813",
+            "1814",
+            "1815",
+            "1816"
+        ]
+    },
+    {
+        "question": "What nationality was Johann Rudolf Wyss?",
+        "correct_answer": "Swiss",
+        "wrong_answers": [
+            "German",
+            "French",
+            "Italian",
+            "Spanish"
+        ]
+    },
+    {
+        "question": "How many volumes were published for 'Vorlesungen \u00fcber das h\u00f6chste Gut' by Johann Rudolf Wyss?",
+        "correct_answer": "2",
+        "wrong_answers": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "question": "In which part of the battle of L\u00fctzen did Gottfried Heinrich Graf zu Pappenheim appear with his horsemen?",
+        "correct_answer": "In the midst of the battle",
+        "wrong_answers": [
+            "In the beginning of the battle",
+            "In the end of the battle",
+            "In the middle of the battle (incorrect)",
+            "In the front of the battle"
+        ]
+    },
+    {
+        "question": "Which city's siege and storm is Gottfried Heinrich Graf zu Pappenheim accused of showing savage cruelty?",
+        "correct_answer": "Magdeburg",
+        "wrong_answers": [
+            "Berlin",
+            "Dresden",
+            "Leipzig",
+            "Hanover"
+        ]
+    },
+    {
+        "question": "What is the name of the form of rapier reportedly named after Gottfried Heinrich Graf zu Pappenheim?",
+        "correct_answer": "The Pappenheimer",
+        "wrong_answers": [
+            "The Pappenheim",
+            "The Pappenheim's Rapier",
+            "The Pappenheim's Rapier II",
+            "The Pappenheim's Rapier III"
+        ]
+    },
+    {
+        "question": "What military rank did Gottfried Heinrich Graf zu Pappenheim hold when he was recalled to join the army of the Ottoman Empire?",
+        "correct_answer": "Field marshal",
+        "wrong_answers": [
+            "Colonel",
+            "General",
+            "Admiral",
+            "Lieutenant general"
+        ]
+    },
+    {
+        "question": "What is the basis for M\u00f6ssbauer spectroscopy?",
+        "correct_answer": "The M\u00f6ssbauer effect",
+        "wrong_answers": [
+            "The Doppler effect",
+            "The Compton effect",
+            "The photoelectric effect",
+            "The nuclear magnetic resonance (NMR) effect"
+        ]
+    },
+    {
+        "question": "Which university did Rudolf M\u00f6ssbauer attend for his physics studies?",
+        "correct_answer": "Technical University of Munich",
+        "wrong_answers": [
+            "University of Heidelberg",
+            "University of Berlin",
+            "University of Frankfurt",
+            "University of Vienna"
+        ]
+    },
+    {
+        "question": "In which year did the inventor of the Rubik's Cube receive the Nobel Prize in Physics?",
+        "correct_answer": "1980",
+        "wrong_answers": [
+            "1961",
+            "1985",
+            "1975",
+            "1990"
+        ]
+    },
+    {
+        "question": "What was the title of A. B. Guthrie Jr.'s first collection of short stories?",
+        "correct_answer": "The Big It and Other Stories",
+        "wrong_answers": [
+            "The Big One",
+            "The Big Story",
+            "The Big Adventure",
+            "The Big Collection"
+        ]
+    },
+    {
+        "question": "What notable award did A. B. Guthrie Jr.'s novel The Way West win?",
+        "correct_answer": "1950 Pulitzer Prize for Fiction",
+        "wrong_answers": [
+            "1949 National Book Award for Fiction",
+            "1951 National Book Award for Fiction",
+            "1952 National Book Award for Fiction",
+            "1953 National Book Award for Fiction"
+        ]
+    },
+    {
+        "question": "What university did A. B. Guthrie Jr. teach creative writing at?",
+        "correct_answer": "University of Kentucky",
+        "wrong_answers": [
+            "University of Tennessee",
+            "University of Virginia",
+            "University of California, Berkeley",
+            "University of Texas at Austin"
+        ]
+    },
+    {
+        "question": "Which universities awarded Eberhard J\u00fcngel honorary doctorates?",
+        "correct_answer": "University of Greifswald and University of Basel",
+        "wrong_answers": [
+            "University of Heidelberg and University of Munich",
+            "University of Frankfurt and University of Bonn",
+            "University of Leipzig and University of Erfurt",
+            "University of Zurich and University of Geneva"
+        ]
+    },
+    {
+        "question": "What was Eberhard J\u00fcngel's area of expertise?",
+        "correct_answer": "Systematic Theology and the Philosophy of Religion",
+        "wrong_answers": [
+            "He was a renowned poet and novelist.",
+            "He was a prominent figure in the field of psychology.",
+            "He was a renowned physicist and mathematician.",
+            "He was a prominent figure in the field of political science."
+        ]
+    },
+    {
+        "question": "Which of Wolfgang, Count Palatine of Zweibr\u00fccken's territories was involved in the Contract of Heidelberg?",
+        "correct_answer": "Palatinate-Neuburg",
+        "wrong_answers": [
+            "Palatinate-Simmern",
+            "Palatinate-Zweibr\u00fccken",
+            "Palatinate-Birkenfeld",
+            "Palatinate-Zweibrucken"
+        ]
+    },
+    {
+        "question": "Which Emperor occupied Wolfgang, Count Palatine of Zweibr\u00fccken's Protestant territories in 1548?",
+        "correct_answer": "Holy Roman Emperor Charles V",
+        "wrong_answers": [
+            "Holy Roman Emperor Ferdinand I",
+            "Holy Roman Emperor Maximilian I",
+            "Holy Roman Emperor Ferdinand II",
+            "Holy Roman Emperor Rudolf I"
+        ]
+    },
+    {
+        "question": "Who was Wolfgang, Count Palatine of Zweibr\u00fccken's father?",
+        "correct_answer": "Louis II, Count Palatine of Zweibr\u00fccken",
+        "wrong_answers": [
+            "George I, Elector of Hanover",
+            "Frederick I, Elector of Brandenburg",
+            "Frederick II, King of Prussia",
+            "George III, King of Great Britain"
+        ]
+    },
+    {
+        "question": "Which academy named Emil Wiechert as a corresponding member in 1912?",
+        "correct_answer": "Berlin Academy of Science",
+        "wrong_answers": [
+            "Leipzig Academy of Science",
+            "Munich Academy of Science",
+            "Stuttgart Academy of Science",
+            "Frankfurt Academy of Science"
+        ]
+    },
+    {
+        "question": "What type of waves did Emil Wiechert do pioneering work on?",
+        "correct_answer": "Seismic waves",
+        "wrong_answers": [
+            "Electromagnetic waves",
+            "Sound waves",
+            "Light waves",
+            "Magnetic waves"
+        ]
+    },
+    {
+        "question": "What title did Emil Wiechert achieve by 1896?",
+        "correct_answer": "Professor",
+        "wrong_answers": [
+            "Doctor",
+            "Engineer",
+            "Musician",
+            "Artist"
+        ]
+    },
+    {
+        "question": "What notable dignitary attended Thomas Klestil's funeral?",
+        "correct_answer": "Vladimir Putin",
+        "wrong_answers": [
+            "Barack Obama",
+            "Xi Jinping",
+            "Angela Merkel",
+            "Emmanuel Macron"
+        ]
+    },
+    {
+        "question": "Where was Thomas Klestil born?",
+        "correct_answer": "Vienna",
+        "wrong_answers": [
+            "New York",
+            "London",
+            "Paris",
+            "Berlin"
+        ]
+    },
+    {
+        "question": "In what year was Thomas Klestil first elected as president of Austria?",
+        "correct_answer": "1992",
+        "wrong_answers": [
+            "1990",
+            "1994",
+            "1996",
+            "1998"
+        ]
+    },
+    {
+        "question": "Where was Thomas Klestil buried?",
+        "correct_answer": "Vienna's Central Cemetery (Zentralfriedhof)",
+        "wrong_answers": [
+            "New York's Central Park",
+            "Los Angeles' Forest Lawn Memorial Park",
+            "London's Westminster Abbey",
+            "Prague's Vy\u0161ehrad Cemetery"
+        ]
+    },
+    {
+        "question": "How many downhill victories did Michaela Dorfmeister have in her career?",
+        "correct_answer": "7",
+        "wrong_answers": [
+            "5",
+            "8",
+            "6",
+            "4"
+        ]
+    },
+    {
+        "question": "In what year did Michaela Dorfmeister enter her first World Cup race?",
+        "correct_answer": "1991",
+        "wrong_answers": [
+            "1989",
+            "1993",
+            "1995",
+            "1997"
+        ]
+    },
+    {
+        "question": "What is the nationality of Michaela Dorfmeister?",
+        "correct_answer": "Austrian",
+        "wrong_answers": [
+            "German",
+            "Swiss",
+            "Belgian",
+            "Spanish"
+        ]
+    },
+    {
+        "question": "In which races did Michaela Dorfmeister win gold medals at the 2006 Winter Olympics?",
+        "correct_answer": "Downhill and super-G",
+        "wrong_answers": [
+            "Cross-country skiing",
+            "Luge",
+            "Freestyle skiing",
+            "Speed skating"
+        ]
+    },
+    {
+        "question": "In what year was Frank R. Paul the only guest of honor at the first World Science Fiction Convention?",
+        "correct_answer": "1939",
+        "wrong_answers": [
+            "1940",
+            "1938",
+            "1937",
+            "1936"
+        ]
+    },
+    {
+        "question": "What field did Frank R. Paul work in?",
+        "correct_answer": "Science fiction illustration",
+        "wrong_answers": [
+            "Art",
+            "Mathematics",
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    {
+        "question": "What award is named in honor of the author of the novel 'The Call of the Wild'?",
+        "wrong_answers": [
+            "The Jack London Award",
+            "The Robert Louis Stevenson Award",
+            "The Mark Twain Award",
+            "The Edgar Allan Poe Award"
+        ],
+        "correct_answer": "The Frank R Paul Award"
+    },
+    {
+        "question": "What fellowship is named after the famous physicist and Nobel laureate, Richard Feynman?",
+        "correct_answer": "The Richard P. Feynman Fellowship",
+        "wrong_answers": [
+            "The Martin Gutzwiller Fellowship",
+            "The Albert Einstein Fellowship",
+            "The Niels Bohr Fellowship",
+            "The Stephen Hawking Fellowship"
+        ]
+    },
+    {
+        "question": "In which city was Martin Charles Gutzwiller born?",
+        "correct_answer": "Basel",
+        "wrong_answers": [
+            "Geneva",
+            "Z\u00fcrich",
+            "Lausanne",
+            "Bern"
+        ]
+    },
+    {
+        "question": "For what field of study is Martin Charles Gutzwiller known?",
+        "correct_answer": "Physics",
+        "wrong_answers": [
+            "Mathematics",
+            "Chemistry",
+            "Biology",
+            "Computer Science"
+        ]
+    },
+    {
+        "question": "What approximation is Martin Charles Gutzwiller known for formulating?",
+        "correct_answer": "The Gutzwiller approximation",
+        "wrong_answers": [
+            "The Gutzwiller theorem",
+            "The Gutzwiller conjecture",
+            "The Gutzwiller method",
+            "The Gutzwiller approximation for the ground state"
+        ]
+    },
+    {
+        "question": "How much did Iwan Wirth and his wife donate to Cal State LA?",
+        "correct_answer": "$1 million",
+        "wrong_answers": [
+            "$500,000",
+            "$2 million",
+            "$10 million",
+            "$5 million"
+        ]
+    },
+    {
+        "question": "What is the nationality of Iwan Wirth?",
+        "correct_answer": "Swiss",
+        "wrong_answers": [
+            "German",
+            "American",
+            "Japanese",
+            "Canadian"
+        ]
+    },
+    {
+        "question": "What personal health issue has Elizabeth Ann Manley been a spokesperson for?",
+        "correct_answer": "Mental health issues",
+        "wrong_answers": [
+            "Physical health issues",
+            "Environmental health issues",
+            "Social health issues",
+            "Financial health issues"
+        ]
+    },
+    {
+        "question": "What was the result of Elizabeth Ann Manley at the 1982 World Junior Championships?",
+        "correct_answer": "Bronze medal",
+        "wrong_answers": [
+            "Silver medal",
+            "Gold medal",
+            "No medal",
+            "She did not participate in the 1982 World Junior Championships"
+        ]
+    },
+    {
+        "question": "What honor was Elizabeth Ann Manley awarded in 1988?",
+        "correct_answer": "Member of the Order of Canada",
+        "wrong_answers": [
+            "The Order of the British Empire",
+            "The Order of Australia",
+            "The Order of the Republic of Ireland",
+            "The Order of the Rising Sun"
+        ]
+    },
+    {
+        "question": "Which famous waterfall did Thomas Baines view alongside David Livingstone in 1858?",
+        "correct_answer": "Victoria Falls",
+        "wrong_answers": [
+            "Niagara Falls",
+            "Honeymoon Falls",
+            "Angel Falls",
+            "Mosi-oa-Tunya Falls"
+        ]
+    },
+    {
+        "question": "Why did Fatmir Sejdiu resign as President of Kosovo in 2010?",
+        "correct_answer": "Violating the Constitution of Kosovo",
+        "wrong_answers": [
+            "Fatmir Sejdiu resigned due to health issues.",
+            "He was impeached by the Kosovo Assembly.",
+            "He was forced to resign by the European Union.",
+            "He was removed from office by the Kosovo Supreme Court."
+        ]
+    },
+    {
+        "question": "How many World Championship medals did Andreas Wenzel win in the sport of bobsled?",
+        "wrong_answers": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "correct_answer": "4"
+    },
+    {
+        "question": "How many season titles in the combined event did Andreas Wenzel win?",
+        "correct_answer": "2",
+        "wrong_answers": [
+            "1",
+            "3",
+            "0",
+            "4"
+        ]
+    },
+    {
+        "question": "How many Olympic medals did Andreas Wenzel win?",
+        "correct_answer": "2",
+        "wrong_answers": [
+            "1",
+            "3",
+            "0",
+            "4"
+        ]
+    },
+    {
+        "question": "Where did Claire Goll die?",
+        "correct_answer": "Paris, France",
+        "wrong_answers": [
+            "New York, USA",
+            "Berlin, Germany",
+            "Tokyo, Japan",
+            "London, UK"
+        ]
+    },
+    {
+        "question": "To which country did Claire Goll emigrate during World War I?",
+        "correct_answer": "Switzerland",
+        "wrong_answers": [
+            "Canada",
+            "Australia",
+            "New Zealand",
+            "United States"
+        ]
+    },
+    {
+        "question": "What languages did Claire Goll write her works in?",
+        "correct_answer": "German and French",
+        "wrong_answers": [
+            "English",
+            "Spanish",
+            "Italian",
+            "Russian"
+        ]
+    },
+    {
+        "question": "In which city did Hans Georg Dehmelt die?",
+        "correct_answer": "Seattle, Washington",
+        "wrong_answers": [
+            "New York, New York",
+            "Los Angeles, California",
+            "Tokyo, Japan",
+            "London, England"
+        ]
+    },
+    {
+        "question": "What nationality was Hans Georg Dehmelt?",
+        "correct_answer": "German and American",
+        "wrong_answers": [
+            "German only",
+            "American only",
+            "Russian",
+            "French"
+        ]
+    },
+    {
+        "question": "What was Hans Georg Dehmelt's age at the time of his Nobel Prize?",
+        "correct_answer": "94",
+        "wrong_answers": [
+            "82",
+            "78",
+            "96",
+            "100"
+        ]
+    },
+    {
+        "question": "What was a unique aspect of Simone Young's appointment with the Sydney Symphony Orchestra?",
+        "correct_answer": "First female chief conductor",
+        "wrong_answers": [
+            "She was the youngest conductor ever appointed",
+            "She was the first conductor of African descent",
+            "She was the first conductor to conduct all four Beethoven symphonies in one season",
+            "She was the first conductor to conduct all four Brahms symphonies in one season"
+        ]
+    },
+    {
+        "question": "What is Simone Young's nationality?",
+        "correct_answer": "Australian",
+        "wrong_answers": [
+            "Canadian",
+            "American",
+            "British",
+            "New Zealand"
+        ]
+    },
+    {
+        "question": "What notable recording did Simone Young complete involving Richard Wagner's works?",
+        "correct_answer": "The complete Ring Cycle",
+        "wrong_answers": [
+            "The complete Tristan und Isolde",
+            "The complete Parsifal",
+            "The complete Ride of the Valkyries",
+            "The complete Siegfried Idyll"
+        ]
+    },
+    {
+        "question": "What year did George Wells Beadle return to the California Institute of Technology as Professor of Biology?",
+        "correct_answer": "1946",
+        "wrong_answers": [
+            "1945",
+            "1947",
+            "1948",
+            "1949"
+        ]
+    },
+    {
+        "question": "Which university did George Wells Beadle serve as the 7th President of?",
+        "correct_answer": "University of Chicago",
+        "wrong_answers": [
+            "Harvard University",
+            "Stanford University",
+            "Yale University",
+            "Princeton University"
+        ]
+    },
+    {
+        "question": "What position did George Wells Beadle hold at Harvard University?",
+        "correct_answer": "Assistant Professor of Genetics",
+        "wrong_answers": [
+            "Professor of Chemistry",
+            "Assistant Professor of Literature",
+            "Professor of Mathematics",
+            "Assistant Professor of Philosophy"
+        ]
+    },
+    {
+        "question": "Where was George Wells Beadle born?",
+        "correct_answer": "Wahoo, Nebraska",
+        "wrong_answers": [
+            "New York City",
+            "Los Angeles",
+            "Chicago",
+            "Houston"
+        ]
+    },
+    {
+        "question": "What architectural style was Paul Otlet's mansion in Brussels?",
+        "correct_answer": "Art Nouveau",
+        "wrong_answers": [
+            "Gothic Revival",
+            "Baroque",
+            "Modernist",
+            "Eclectic"
+        ]
+    },
+    {
+        "question": "Where was Paul Otlet born?",
+        "correct_answer": "Brussels, Belgium",
+        "wrong_answers": [
+            "New York, USA",
+            "Tokyo, Japan",
+            "Sydney, Australia",
+            "Paris, France"
+        ]
+    },
+    {
+        "question": "What field is Paul Otlet considered to be the father of?",
+        "correct_answer": "Information science",
+        "wrong_answers": [
+            "The father of information science is Claude Shannon.",
+            "The father of information science is Thomas Hobbes.",
+            "The father of information science is Aristotle.",
+            "The father of information science is Leonardo da Vinci."
+        ]
+    },
+    {
+        "question": "What degree did Paul Otlet earn from the Free University of Brussels?",
+        "correct_answer": "A law degree",
+        "wrong_answers": [
+            "A medical degree",
+            "A philosophy degree",
+            "A mathematics degree",
+            "A literature degree"
+        ]
+    },
+    {
+        "question": "What was named after Alfred B\u00fcchi in Neuwiesenquartier, Winterthur, in summer 2012?",
+        "correct_answer": "Alfred B\u00fcchi Way",
+        "wrong_answers": [
+            "Alfred B\u00fcchi Bridge",
+            "Alfred B\u00fcchi Plaza",
+            "Alfred B\u00fcchi Park",
+            "Alfred B\u00fcchi Street"
+        ]
+    },
+    {
+        "question": "Where is Alfred B\u00fcchi buried?",
+        "correct_answer": "Rosenberg cemetery in Winterthur",
+        "wrong_answers": [
+            "In the Swiss Alps",
+            "At the University of Zurich",
+            "In the family's ancestral home in Zurich",
+            "In the Protestant Cemetery in Rome"
+        ]
+    },
+    {
+        "question": "In which year is the birth of the turbocharging era acknowledged due to Alfred B\u00fcchi's invention?",
+        "correct_answer": "1905",
+        "wrong_answers": [
+            "1900",
+            "1910",
+            "1920",
+            "1930"
+        ]
+    },
+    {
+        "question": "What honour was Alfred B\u00fcchi awarded in 1938 by ETH Zurich?",
+        "correct_answer": "An honorary doctorate",
+        "wrong_answers": [
+            "A Nobel Prize",
+            "A medal of honour",
+            "A position as a professor",
+            "A scholarship"
+        ]
+    },
+    {
+        "question": "What was Kati Outinen's profession at the Theatre Academy Helsinki from 2002 to 2013?",
+        "correct_answer": "A professor in acting",
+        "wrong_answers": [
+            "A student in music",
+            "A director in dance",
+            "A teacher in visual arts",
+            "A researcher in linguistics"
+        ]
+    },
+    {
+        "question": "What nationality is Kati Outinen?",
+        "correct_answer": "Finnish",
+        "wrong_answers": [
+            "Swedish",
+            "Norwegian",
+            "Icelandic",
+            "Estonian"
+        ]
+    },
+    {
+        "question": "Where was Kati Outinen born?",
+        "correct_answer": "Helsinki",
+        "wrong_answers": [
+            "New York",
+            "Los Angeles",
+            "London",
+            "Paris"
+        ]
+    },
+    {
+        "question": "In German, how is Catherine of Bohemia's name spelled?",
+        "correct_answer": "Katharina von B\u00f6hmen",
+        "wrong_answers": [
+            "Katharina von Bohmen",
+            "Katharina von Bohm",
+            "Katharina von Bohme",
+            "Katharina von Bohm"
+        ]
+    },
+    {
+        "question": "Did Catherine of Bohemia have any children with Rudolf IV, Duke of Austria?",
+        "correct_answer": "No",
+        "wrong_answers": [
+            "Yes, Catherine had a son named Rudolf V, who later became the Holy Roman Emperor.",
+            "No, Catherine did not have any children with Rudolf IV.",
+            "Yes, Catherine had a daughter named Anna, who married a Hungarian noble.",
+            "No, Catherine was not the mother of Rudolf IV, Duke of Austria."
+        ]
+    },
+    {
+        "question": "What is the full name of the character played by Scarlett Johansson in the movie 'Avengers: Endgame'?",
+        "correct_answer": "Catherine of Bohemia",
+        "wrong_answers": [
+            "Natasha Romanoff",
+            "Black Widow",
+            "Hawkeye",
+            "Thor"
+        ]
+    },
+    {
+        "question": "What languages are used to refer to Catherine of Bohemia in her homeland?",
+        "correct_answer": "Czech and German",
+        "wrong_answers": [
+            "Spanish and French",
+            "Polish and Russian",
+            "Italian and Greek",
+            "Portuguese and Dutch"
+        ]
+    },
+    {
+        "question": "Which women's chess champion did G\u00e9za Mar\u00f3czy greatly help?",
+        "correct_answer": "Vera Menchik",
+        "wrong_answers": [
+            "Eve Marie Killeen",
+            "Helen O'Dette",
+            "Nina Hru\u0161kov\u00e1",
+            "Yekaterina Bogatyk"
+        ]
+    },
+    {
+        "question": "What is the name of the chess formation associated with G\u00e9za Mar\u00f3czy's name?",
+        "correct_answer": "The Mar\u00f3czy Bind",
+        "wrong_answers": [
+            "The Maroczy Bind",
+            "The Maroczy Bind",
+            "The Maroczy Bind",
+            "The Maroczy Bind"
+        ]
+    },
+    {
+        "question": "What contribution to opening theory did Capablanca credit to G\u00e9za Mar\u00f3czy?",
+        "correct_answer": "The Mar\u00f3czy Bind",
+        "wrong_answers": [
+            "The Mar\u00f3czy Exchange",
+            "The Mar\u00f3czy Gambit",
+            "The Mar\u00f3czy Defense",
+            "The Mar\u00f3czy Opening"
+        ]
+    },
+    {
+        "question": "Who praised G\u00e9za Mar\u00f3czy for his handling of queen endgames?",
+        "correct_answer": "Capablanca",
+        "wrong_answers": [
+            "Bobby Fischer",
+            "Spassky",
+            "Lasker",
+            "Morphy"
+        ]
+    },
+    {
+        "question": "Where is Alfred H. Colquitt buried?",
+        "correct_answer": "Rose Hill cemetery in Macon",
+        "wrong_answers": [
+            "He is buried in the family plot at Oakwood Cemetery in Atlanta.",
+            "His remains are located in the historic Greenwood Cemetery in Savannah.",
+            "His grave can be found in the peaceful Forest Lawn Cemetery in Marietta.",
+            "Colquitt's final resting place is the serene Mount Vernon Memorial Park in Atlanta."
+        ]
+    },
+    {
+        "question": "In what year was Alfred H. Colquitt first elected to the U.S. Senate?",
+        "correct_answer": "1883",
+        "wrong_answers": [
+            "1882",
+            "1884",
+            "1885",
+            "1886"
+        ]
+    },
+    {
+        "question": "What was the Bourbon Triumvirate, which Alfred H. Colquitt was a part of?",
+        "correct_answer": "A group of powerful Georgia Democrats",
+        "wrong_answers": [
+            "A group of influential Georgia Republicans",
+            "A coalition of wealthy landowners in Georgia",
+            "A secret society of Georgia politicians",
+            "A trio of corrupt politicians in the Georgia legislature"
+        ]
+    },
+    {
+        "question": "What was the final rank Alfred H. Colquitt held in the Confederate Army?",
+        "correct_answer": "Major general",
+        "wrong_answers": [
+            "Lieutenant general",
+            "Colonel",
+            "Brigadier general",
+            "Private"
+        ]
+    },
+    {
+        "question": "How many children did Alfred H. Colquitt have with his second wife?",
+        "correct_answer": "Three",
+        "wrong_answers": [
+            "Two",
+            "Four",
+            "One",
+            "Five"
+        ]
+    },
+    {
+        "question": "Did Waleran III, Duke of Limburg have any children with Ermesinda of Luxembourg?",
+        "correct_answer": "Yes",
+        "wrong_answers": [
+            "No",
+            "He had several children with other wives.",
+            "He was childless.",
+            "His children were born before his marriage to Ermesinda."
+        ]
+    },
+    {
+        "question": "Which crusade did Waleran III, Duke of Limburg participate in?",
+        "correct_answer": "The Third Crusade",
+        "wrong_answers": [
+            "The First Crusade",
+            "The Fourth Crusade",
+            "The Second Crusade",
+            "The Fifth Crusade"
+        ]
+    },
+    {
+        "question": "What was the relation of Waleran III, Duke of Limburg's child Henry V to Luxembourg?",
+        "correct_answer": "Count of Luxembourg",
+        "wrong_answers": [
+            "King of Luxembourg",
+            "Duke of Luxembourg",
+            "Prince of Luxembourg",
+            "Marquis of Luxembourg"
+        ]
+    },
+    {
+        "question": "Who was the heir of Waleran III, Duke of Limburg from his marriage with Cunigunda of Lorraine?",
+        "correct_answer": "Henry IV, Duke of Limburg",
+        "wrong_answers": [
+            "Waleran IV, Duke of Limburg",
+            "Henry III, Duke of Limburg",
+            "Cunigunda of Lorraine's first husband",
+            "Waleran III's second wife"
+        ]
+    },
+    {
+        "question": "Who succeeded Waleran III, Duke of Limburg as Duke of Limburg?",
+        "correct_answer": "His son Henry IV",
+        "wrong_answers": [
+            "His daughter Matilda",
+            "His brother Godfrey",
+            "His cousin Otto",
+            "His nephew William"
+        ]
+    },
+    {
+        "question": "Which castle did Henry the Lombard, son of Frederick I, Duke of Lorraine, build?",
+        "correct_answer": "The castle of Bayon",
+        "wrong_answers": [
+            "The castle of Neuschwanstein",
+            "The castle of Mont Saint-Michel",
+            "The castle of Carcassonne",
+            "The castle of Heidelberg"
+        ]
+    },
+    {
+        "question": "Which title did Frederick I, Duke of Lorraine hold?",
+        "correct_answer": "Duke of Lorraine",
+        "wrong_answers": [
+            "King of Prussia",
+            "Grand Duke of Tuscany",
+            "Duke of Modena",
+            "Prince of Orange"
+        ]
+    },
+    {
+        "question": "Who succeeded Frederick I, Duke of Lorraine as Duke of Lorraine?",
+        "correct_answer": "His son Frederick",
+        "wrong_answers": [
+            "His daughter Anne",
+            "His brother Charles",
+            "His cousin John",
+            "His successor was not a member of the family"
+        ]
+    },
+    {
+        "question": "In what year did \u00c9mile Boirac use the term 'd\u00e9j\u00e0 vu' in a letter to the Revue philosophique?",
+        "correct_answer": "1876",
+        "wrong_answers": [
+            "1875",
+            "1877",
+            "1878",
+            "1879"
+        ]
+    },
+    {
+        "question": "What nationality was \u00c9mile Boirac?",
+        "correct_answer": "French",
+        "wrong_answers": [
+            "German",
+            "American",
+            "Spanish",
+            "Italian"
+        ]
+    },
+    {
+        "question": "What language was \u00c9mile Boirac a notable advocate for?",
+        "correct_answer": "Esperanto",
+        "wrong_answers": [
+            "French",
+            "Italian",
+            "German",
+            "Spanish"
+        ]
+    },
+    {
+        "question": "What type of poetry did Maximus Planudes write?",
+        "correct_answer": "Hexameter poems",
+        "wrong_answers": [
+            "Epic poems",
+            "Iambic pentameter poems",
+            "Free verse poems",
+            "Sonnet poems"
+        ]
+    },
+    {
+        "question": "What empire's reign did Maximus Planudes live during?",
+        "correct_answer": "Byzantine Empire",
+        "wrong_answers": [
+            "Ottoman Empire",
+            "Roman Empire",
+            "Holy Roman Empire",
+            "Mongol Empire"
+        ]
+    },
+    {
+        "question": "What was Maximus Planudes' notable contribution to the revival of studies in Western Europe?",
+        "correct_answer": "His translations",
+        "wrong_answers": [
+            "His invention of the printing press",
+            "His establishment of the first university in Europe",
+            "His creation of the first encyclopedia in Latin",
+            "His advocacy for the study of classical texts in the original languages"
+        ]
+    },
+    {
+        "question": "When did Eve Arnold die?",
+        "correct_answer": "January 4, 2012",
+        "wrong_answers": [
+            "February 5, 2011",
+            "March 6, 2013",
+            "April 7, 2014",
+            "May 8, 2015"
+        ]
+    },
+    {
+        "question": "What notable actress did Eve Arnold frequently photograph?",
+        "correct_answer": "Marilyn Monroe",
+        "wrong_answers": [
+            "Audrey Hepburn",
+            "Elizabeth Taylor",
+            "Hedy Lamarr",
+            "Ingrid Bergman"
+        ]
+    },
+    {
+        "question": "What year did Eve Arnold marry Arnold Schmitz?",
+        "correct_answer": "1941",
+        "wrong_answers": [
+            "1939",
+            "1943",
+            "1945",
+            "1947"
+        ]
+    },
+    {
+        "question": "What concept does Wanda J. Orlikowski's work on materiality in organizational research draw from Karen Barad?",
+        "correct_answer": "Agential realism",
+        "wrong_answers": [
+            "Feminist realism",
+            "Critical realism",
+            "Social constructivism",
+            "Object-oriented ontology"
+        ]
+    },
+    {
+        "question": "Which journal has Wanda J. Orlikowski served as a senior editor for?",
+        "correct_answer": "Organization Science",
+        "wrong_answers": [
+            "Journal of Organizational Behavior",
+            "Journal of Management",
+            "Journal of Marketing",
+            "Journal of Human Resources"
+        ]
+    },
+    {
+        "question": "Which university is Wanda J. Orlikowski associated with as a professor?",
+        "correct_answer": "Massachusetts Institute of Technology",
+        "wrong_answers": [
+            "Harvard University",
+            "Stanford University",
+            "University of California, Berkeley",
+            "Cornell University"
+        ]
+    },
+    {
+        "question": "What award did Wanda J. Orlikowski receive from the Academy of Management in 2015?",
+        "correct_answer": "Distinguished Scholar Award",
+        "wrong_answers": [
+            "Golden Globe Award",
+            "Pulitzer Prize",
+            "Nobel Prize in Literature",
+            "Eiffel Tower"
+        ]
+    },
+    {
+        "question": "To which religion did William Roper return after leaving Lutheranism?",
+        "correct_answer": "Catholicism",
+        "wrong_answers": [
+            "Buddhism",
+            "Islam",
+            "Judaism",
+            "Protestantism"
+        ]
+    },
+    {
+        "question": "What profession did William Roper have?",
+        "correct_answer": "Lawyer",
+        "wrong_answers": [
+            "Doctor",
+            "Engineer",
+            "Politician",
+            "Farmer"
+        ]
+    },
+    {
+        "question": "What notable work did William Roper write?",
+        "correct_answer": "A biography of Sir Thomas More",
+        "wrong_answers": [
+            "The Canterbury Tales",
+            "The Divine Comedy",
+            "The Prince",
+            "The Tale of Genji"
+        ]
+    },
+    {
+        "question": "What society at Oxford University is named after Edgar Wind?",
+        "correct_answer": "The student art and art history society",
+        "wrong_answers": [
+            "The student engineering society",
+            "The student law society",
+            "The student philosophy society",
+            "The student politics society"
+        ]
+    },
+    {
+        "question": "What modern institution has a reading room dedicated to Edgar Wind?",
+        "correct_answer": "Oxford's Sackler Library",
+        "wrong_answers": [
+            "Cambridge University's Fitzwilliam Museum",
+            "New York Public Library's Schomburg Center for Research in Black Culture",
+            "The British Library's Reading Room",
+            "The University of California, Berkeley's Haas Library"
+        ]
+    },
+    {
+        "question": "Which institute is Edgar Wind associated with?",
+        "correct_answer": "The Warburg Institute",
+        "wrong_answers": [
+            "The British Library",
+            "The National Gallery",
+            "The Royal Society",
+            "The Institute of Historical Research"
+        ]
+    },
+    {
+        "question": "What was Edgar Wind's stance on modern art?",
+        "correct_answer": "He defended modern art",
+        "wrong_answers": [
+            "He criticized modern art",
+            "He was indifferent to modern art",
+            "He was a proponent of traditional art",
+            "He was a collector of modern art"
+        ]
+    },
+    {
+        "question": "Who did Vera Dushevina upset in the first round of Wimbledon after defeating Francesca Schiavone?",
+        "correct_answer": "Francesca Schiavone",
+        "wrong_answers": [
+            "Serena Williams",
+            "Maria Sharapova",
+            "Petra Kvitova",
+            "Elena Vesnina"
+        ]
+    },
+    {
+        "question": "How many doubles titles did Vera Dushevina win on the WTA Tour?",
+        "correct_answer": "Two",
+        "wrong_answers": [
+            "One",
+            "Three",
+            "Four",
+            "Five"
+        ]
+    },
+    {
+        "question": "Which team did Vera Dushevina play for in the 2005 Fed Cup?",
+        "correct_answer": "Russian team",
+        "wrong_answers": [
+            "American team",
+            "German team",
+            "French team",
+            "British team"
+        ]
+    },
+    {
+        "question": "Which U-boat did Engelbert Endrass command first, U-46 or U-567?",
+        "correct_answer": "U-46",
+        "wrong_answers": [
+            "U-567",
+            "U-100",
+            "U-352",
+            "U-234"
+        ]
+    },
+    {
+        "question": "What nationality was Engelbert Endrass?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "French",
+            "Russian",
+            "Chinese"
+        ]
+    },
+    {
+        "question": "What military decoration was Engelbert Endrass a recipient of?",
+        "correct_answer": "Knight's Cross of the Iron Cross with Oak Leaves",
+        "wrong_answers": [
+            "Iron Cross with Swords",
+            "Pour le M\u00e9rite",
+            "Medal of Honor",
+            "Order of the Bath"
+        ]
+    },
+    {
+        "question": "What kind of roles did Leo Slezak mostly play in German cinema?",
+        "correct_answer": "Humorous characters",
+        "wrong_answers": [
+            "Serious villains",
+            "Romantic leads",
+            "Musical theater performers",
+            "Nazi officers"
+        ]
+    },
+    {
+        "question": "Which opera house was Leo Slezak a permanent member of from 1901 onwards?",
+        "correct_answer": "Vienna State Opera",
+        "wrong_answers": [
+            "Berlin State Opera",
+            "La Scala in Milan",
+            "Metropolitan Opera in New York",
+            "Royal Opera House in London"
+        ]
+    },
+    {
+        "question": "In what field was Leo Slezak primarily known?",
+        "correct_answer": "Opera",
+        "wrong_answers": [
+            "Actor",
+            "Scientist",
+            "Politician",
+            "Musician"
+        ]
+    },
+    {
+        "question": "How many children did Leo Slezak have who were also actors?",
+        "correct_answer": "Two",
+        "wrong_answers": [
+            "Three",
+            "None",
+            "Four",
+            "One"
+        ]
+    },
+    {
+        "question": "How many terms did Gaston Eyskens serve as the Prime Minister of Belgium?",
+        "correct_answer": "Three",
+        "wrong_answers": [
+            "Two",
+            "Four",
+            "Five",
+            "Six"
+        ]
+    },
+    {
+        "question": "In what year did Gaston Eyskens first become Prime Minister of Belgium?",
+        "correct_answer": "1949",
+        "wrong_answers": [
+            "1950",
+            "1951",
+            "1952",
+            "1953"
+        ]
+    },
+    {
+        "question": "What significant contribution did Steve Furber make to the field of computer science?",
+        "correct_answer": "Design of the ARM processor architecture",
+        "wrong_answers": [
+            "Inventor of the first personal computer",
+            "Creator of the first successful operating system",
+            "Developer of the first graphical user interface",
+            "Contributor to the development of the first quantum computer"
+        ]
+    },
+    {
+        "question": "Which university did Steve Furber attend for his education?",
+        "correct_answer": "University of Cambridge",
+        "wrong_answers": [
+            "University of Oxford",
+            "University of Edinburgh",
+            "University of Toronto",
+            "University of California, Berkeley"
+        ]
+    },
+    {
+        "question": "What company did Steve Furber work for in the 1980s?",
+        "correct_answer": "Acorn Computers",
+        "wrong_answers": [
+            "Intel",
+            "Microsoft",
+            "Apple",
+            "Nokia"
+        ]
+    },
+    {
+        "question": "What was the initial name of the factory Gustav Otto opened in 1913?",
+        "correct_answer": "Otto-Flugzeugwerke",
+        "wrong_answers": [
+            "Volkswagen",
+            "BMW",
+            "Mercedes-Benz",
+            "Lamborghini"
+        ]
+    },
+    {
+        "question": "What nationality was Gustav Otto?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "French",
+            "Russian",
+            "British"
+        ]
+    },
+    {
+        "question": "In what field did Gustav Otto obtain further education?",
+        "correct_answer": "Engineering",
+        "wrong_answers": [
+            "Art",
+            "Medicine",
+            "Law",
+            "Physics"
+        ]
+    },
+    {
+        "question": "Which university's John F. Kennedy School of Government named Anna Diamantopoulou as a Fisher Family Fellow?",
+        "correct_answer": "Harvard University",
+        "wrong_answers": [
+            "Yale University",
+            "Princeton University",
+            "Stanford University",
+            "University of California, Berkeley"
+        ]
+    },
+    {
+        "question": "What was Anna Diamantopoulou's role in the Prodi Commission?",
+        "correct_answer": "European Commissioner for Employment, Social Affairs and Equal Opportunities",
+        "wrong_answers": [
+            "European Commissioner for Agriculture and Rural Development",
+            "European Commissioner for Energy and Climate Change",
+            "European Commissioner for Foreign Affairs and Security Policy",
+            "European Commissioner for Health and Consumer Protection"
+        ]
+    },
+    {
+        "question": "What is Anna Diamantopoulou's nationality?",
+        "correct_answer": "Greek",
+        "wrong_answers": [
+            "American",
+            "Australian",
+            "Canadian",
+            "British"
+        ]
+    },
+    {
+        "question": "Which initiative did Anna Diamantopoulou lead that aimed at securing equal opportunities and improving working conditions in the EU?",
+        "correct_answer": "Agenda for Social Policy",
+        "wrong_answers": [
+            "European Social Fund",
+            "European Investment Fund",
+            "European Stability Mechanism",
+            "European Central Bank"
+        ]
+    },
+    {
+        "question": "What is the main subject of Friedrich Paulsen's work 'System der Ethik'?",
+        "correct_answer": "Ethics",
+        "wrong_answers": [
+            "Physics",
+            "Mathematics",
+            "Biology",
+            "Chemistry"
+        ]
+    },
+    {
+        "question": "What was Friedrich Paulsen's nationality?",
+        "correct_answer": "German",
+        "wrong_answers": [
+            "American",
+            "French",
+            "Russian",
+            "Italian"
+        ]
+    },
+    {
+        "question": "At which university did Friedrich Paulsen complete his doctoral thesis?",
+        "correct_answer": "University of Berlin",
+        "wrong_answers": [
+            "University of Frankfurt",
+            "University of Munich",
+            "University of Heidelberg",
+            "University of Leipzig"
+        ]
+    },
+    {
+        "question": "What position did J\u00f3zef Oleksy hold in the European Parliament?",
+        "correct_answer": "Member of the European Parliament",
+        "wrong_answers": [
+            "President of the European Commission",
+            "Vice-President of the European Commission",
+            "Member of the European Council",
+            "President of the European Council"
+        ]
+    },
+    {
+        "question": "What degree did J\u00f3zef Oleksy obtain?",
+        "correct_answer": "A doctoral degree in economics",
+        "wrong_answers": [
+            "A bachelor's degree in philosophy",
+            "A master's degree in literature",
+            "A doctoral degree in mathematics",
+            "A master's degree in economics"
+        ]
+    },
+    {
+        "question": "What role did J\u00f3zef Oleksy have in the Socialist Union of Polish Students?",
+        "correct_answer": "He was a member of the board",
+        "wrong_answers": [
+            "He was the president of the union.",
+            "He was a secret agent for the Polish government.",
+            "He was a member of the Communist Party.",
+            "He was a professor of history at the University of Warsaw."
+        ]
+    },
+    {
+        "question": "Which political party was J\u00f3zef Oleksy a member of from 1968 to 1990?",
+        "correct_answer": "Communist Polish United Workers' Party (PZPR)",
+        "wrong_answers": [
+            "Democratic Party",
+            "Liberal Party",
+            "Civic Platform",
+            "Polish People's Party"
+        ]
+    },
+    {
+        "question": "Who was J\u00f3zef Oleksy married to?",
+        "correct_answer": "Maria Oleksy",
+        "wrong_answers": [
+            "Maria Pawlikowska-Jasnorzewska",
+            "Maria Konopnicka",
+            "Maria Curie-Sklodowska",
+            "Maria Pawlikowska-Jasnorzewska"
+        ]
+    },
+    {
+        "question": "What university did Guillermo Cabrera Infante attend for journalism?",
+        "correct_answer": "University of Havana",
+        "wrong_answers": [
+            "University of Mexico",
+            "University of California, Berkeley",
+            "University of Oxford",
+            "University of Tokyo"
+        ]
+    },
+    {
+        "question": "What nationality was Guillermo Cabrera Infante?",
+        "correct_answer": "Cuban",
+        "wrong_answers": [
+            "Mexican",
+            "Spanish",
+            "American",
+            "Portuguese"
+        ]
+    },
+    {
+        "question": "What was the original setting for nearly all of Guillermo Cabrera Infante's writings?",
+        "correct_answer": "Havana",
+        "wrong_answers": [
+            "New York",
+            "Paris",
+            "London",
+            "Mexico City"
+        ]
+    },
+    {
+        "question": "Which church did Hermann Maas join that opposed the Nazi regime?",
+        "correct_answer": "Confessing Church",
+        "wrong_answers": [
+            "Evangelical Church",
+            "Catholic Church",
+            "Jewish Synagogue",
+            "Buddhist Temple"
+        ]
+    },
+    {
+        "question": "What title was Hermann Maas awarded by Yad Vashem?",
+        "correct_answer": "Righteous Among the Nations",
+        "wrong_answers": [
+            "Righteous Among the Dead",
+            "Righteous Among the Saved",
+            "Righteous Among the Enemies",
+            "Righteous Among the Criminals"
+        ]
+    },
+    {
+        "question": "What languages could Hermann Maas speak fluently that impressed Zionist activists?",
+        "correct_answer": "Hebrew",
+        "wrong_answers": [
+            "German",
+            "French",
+            "Spanish",
+            "Italian"
+        ]
+    },
+    {
+        "question": "Which society examined Louis De Rougemont's claims?",
+        "correct_answer": "The Royal Geographical Society",
+        "wrong_answers": [
+            "The American Geographical Society",
+            "The National Geographic Society",
+            "The Society of American Historians",
+            "The British Academy"
+        ]
+    },
+    {
+        "question": "Under what name did Louis De Rougemont write about his invented adventures?",
+        "correct_answer": "Louis De Rougemont",
+        "wrong_answers": [
+            "George Orwell",
+            "Mark Twain",
+            "J.K. Rowling",
+            "H.P. Lovecraft"
+        ]
+    },
+    {
+        "question": "In which country was Louis De Rougemont born?",
+        "correct_answer": "Switzerland",
+        "wrong_answers": [
+            "France",
+            "Germany",
+            "United States",
+            "Canada"
+        ]
+    },
+    {
+        "question": "What did Louis De Rougemont claim to have been worshipped as by Indigenous Australians?",
+        "correct_answer": "A god",
+        "wrong_answers": [
+            "A kangaroo",
+            "A boomerang",
+            "A didgeridoo",
+            "A boomerang"
+        ]
+    }
+]
